@@ -1,5 +1,4 @@
 # Hello-World
 testing
 **Bioinformatics** student *in the works*
-
-I need to highlight these ==very important words==.
+~The genomics force~ is strong with this one
